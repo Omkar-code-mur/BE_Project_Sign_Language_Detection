@@ -1,1 +1,1 @@
-# E_Project_Sign_Language_Detection
+# BE_Project_Sign_Language_Detection

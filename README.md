@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="imgs/intro.gif" width=200>
+  <img src="https://techcrunch.com/wp-content/uploads/2019/08/handtracking_shot.png?w=730" width=500>
 </p>
 
 <br>
